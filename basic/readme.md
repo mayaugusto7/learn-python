@@ -1,0 +1,20 @@
+Às vezes, pode ser necessário realizar conversões entre os tipos internos. Para converter entre tipos, basta usar
+o nome do tipo como uma função.
+
+int(x [,base])
+long(x [,base] )
+float(x)
+complex(real [,imag])
+str(x)
+repr(x)
+eval(str)
+tuple(s)
+list(s)
+set(s)
+dict(d)
+frozenset(s)
+chr(x)
+unichr(x)
+ord(x)
+hex(x)
+oct(x)

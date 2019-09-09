@@ -1,0 +1,12 @@
+# Listas ou Arrays  podem ter seus elementos alterados ao contrario das tuplas
+# Listas ou Arrays são inicializadas com cochetes []
+
+list = ['abcd', 786, 2.23, 'john', 70.2 ]
+tinylist = [123, 'john']
+
+print(list)
+print(list[0])
+print(list[1:3])
+print(list[2:])
+print(tinylist * 2)
+print(list + tinylist)
