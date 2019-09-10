@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e48a6909-1400-474d-8b4b-94fdc851ae4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/calendar_sample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/date_time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/aname.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/functions_anonymous.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/modules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/support.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/functions.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +49,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.functions">
+  <component name="RunManager" selected="Python.functions_anonymous">
     <configuration name="calendar" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learn-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="loops_for" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="functions_anonymous" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learn-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,7 +125,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/loops_for.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/functions_anonymous.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.functions_anonymous" />
         <item itemvalue="Python.functions" />
         <item itemvalue="Python.calendar" />
         <item itemvalue="Python.date_time" />
         <item itemvalue="Python.loops_instrucoes_controler" />
-        <item itemvalue="Python.loops_for" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +173,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
